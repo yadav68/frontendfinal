@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "price": 49.99,
+        "image": "/images/te.png",
+        "description": "High-quality wireless headphones with noise cancellation."
+    },
+    {
+        "id": 2,
+        "name": "Smartwatch",
+        "category": "Electronics",
+        "price": 99.99,
+        "image": "/images/smartwatch.jpg",
+        "description": "Track your fitness goals with this stylish smartwatch."
+    },
+    {
+        "id": 3,
+        "name": "4K Ultra HD TV",
+        "category": "/images/tv.jpg",
+        "price": 799.99,
+        "image": "",
+        "description": "Experience stunning picture quality with this 4K Ultra HD TV."
+    },
+    {
+        "id": 4,
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "price": 59.99,
+        "image": "/images/runningshoes.jpg",
+        "description": "Comfortable running shoes for all-day wear."
+    },
+    {
+        "id": 5,
+        "name": "Sneakers",
+        "category": "Footwear",
+        "price": 49.99,
+        "image": "/images/shoes.jpg",
+        "description": "Stylish sneakers for everyday casual wear."
+    },
+    {
+        "id": 6,
+        "name": "Leather Boots",
+        "category": "Footwear",
+        "price": 129.99,
+        "image": "/images/boots.png",
+        "description": "Durable leather boots for outdoor adventures."
+    },
+    {
+        "id": 7,
+        "name": "Yoga Mat",
+        "category": "Sports",
+        "price": 19.99,
+        "image": "/images/mat.jpg",
+        "description": "Comfortable and non-slip yoga mat for your workouts."
+    },
+    {
+        "id": 8,
+        "name": "Dumbbell Set",
+        "category": "Sports",
+        "price": 39.99,
+        "image": "/images/dumbell.jpg",
+        "description": "Adjustable dumbbell set for home workouts."
+    },
+    {
+        "id": 9,
+        "name": "Baseball Glove",
+        "category": "Sports",
+        "price": 29.99,
+        "image": "/images/gloves.jpg",
+        "description": "Durable leather baseball glove for players."
+    },
+    {
+        "id": 10,
+        "name": "Casual T-Shirt",
+        "category": "Clothing",
+        "price": 19.99,
+        "image": "/images/tshirt.png",
+        "description": "Soft and breathable casual T-shirt, perfect for everyday wear."
+    },
+    {
+        "id": 11,
+        "name": "Jeans",
+        "category": "Clothing",
+        "price": 39.99,
+        "image": "/images/jeans.jpg",
+        "description": "Stylish and comfortable jeans for all occasions."
+    },
+    {
+        "id": 12,
+        "name": "Leather Jacket",
+        "category": "Clothing",
+        "price": 149.99,
+        "image": "/images/jacket.jpg",
+        "description": "Classic leather jacket for a timeless look."
+    },
+    {
+        "id": 13,
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 19.99,
+        "image": "/images/sunglasses.jpg",
+        "description": "UV-protection sunglasses for sunny days."
+    },
+    {
+        "id": 14,
+        "name": "Wristwatch",
+        "category": "Accessories",
+        "price": 89.99,
+        "image": "wristwatch.jpg",
+        "description": "Elegant wristwatch with leather strap."
+    },
+    {
+        "id": 15,
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 49.99,
+        "image": "backpack.jpg",
+        "description": "Spacious and durable backpack for travel and daily use."
+    }
+]

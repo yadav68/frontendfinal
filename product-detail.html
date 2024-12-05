@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Detail - YourShop</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="product-detail.js" defer></script>
+</head>
+<body>
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar">
+            <div class="navbar-logo">
+                <a href="index.html">YourShop</a>
+            </div>
+            <ul class="navbar-links">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="cart.html">Cart (<span id="cart-count">0</span>)</a></li>
+                <li><a href="profile.html">Profile</a></li>
+                <li><a href="login.html">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Product Detail Section -->
+    <main class="product-detail-container">
+        <div class="product-detail-card">
+            <div class="product-image-container">
+                <img src="https://via.placeholder.com/400" alt="Product Name" id="product-image" />
+            </div>
+            <div class="product-info-container">
+                <h1 id="product-name">Product Name</h1>
+                <p id="product-category">Category: <span>Electronics</span></p>
+                <p id="product-description">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae ex id eros efficitur tincidunt.
+                </p>
+                <p class="product-price" id="product-price">$49.99</p>
+                <button class="add-to-cart" id="add-to-cart-btn">Add to Cart</button>
+            </div>
+        </div>
+    </main>
+
+    
+    
+    <!-- Related Products Section -->
+    <section class="related-products">
+        <h2>Related Products</h2>
+        <div class="product-grid" id="related-products-container"></div>
+    </section>
+    
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 YourShop. All Rights Reserved.</p>
+        <ul class="footer-links">
+            <li><a href="#privacy">Privacy Policy</a></li>
+            <li><a href="#terms">Terms of Service</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+        </ul>
+    </footer>
+   
+    <script src="product-detail.js"></script>
+</body>
+</html>
